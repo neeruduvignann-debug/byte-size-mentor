@@ -12,7 +12,7 @@ interface CodeEditorProps {
 }
 
 export const CodeEditor = ({ 
-  initialCode = "// Welcome to CodeMentor!\n// Start typing your code here...\n\nfunction greet(name) {\n  return `Hello, ${name}!`;\n}\n\nconsole.log(greet('World'));", 
+  initialCode = "// Welcome to Vignan's Code Mentor!\n// Start typing your code here...\n\nfunction greet(name) {\n  return `Hello, ${name}!`;\n}\n\nconsole.log(greet('World'));", 
   language = "javascript",
   onCodeChange,
   onRunCode 

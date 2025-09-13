@@ -42,7 +42,7 @@ const Index = () => {
                   <Code className="w-5 h-5 text-primary-foreground" />
                 </div>
                 <h1 className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                  CodeMentor
+                  Vignan's Code Mentor
                 </h1>
               </div>
             </div>
@@ -86,7 +86,7 @@ const Index = () => {
             <Card className="p-6 bg-gradient-to-r from-primary/10 to-primary-glow/10 border-primary/20">
               <div className="flex items-center justify-between">
                 <div>
-                  <h2 className="text-2xl font-bold mb-2">Welcome back to CodeMentor!</h2>
+                  <h2 className="text-2xl font-bold mb-2">Welcome back to Vignan's Code Mentor!</h2>
                   <p className="text-muted-foreground">
                     Continue your coding journey with interactive tutorials, real-time analysis, and hands-on exercises.
                   </p>
